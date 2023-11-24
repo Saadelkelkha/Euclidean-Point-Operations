@@ -7,8 +7,8 @@ point0 = Point()
 point1 = Point(76, 47)
 
 # Print the Euclidean distance between the point and itself
-print("The distance is:", point0.distance(point1))
+print("The distance is:", point0.Distance(point1))
 
 # Print the Euclidean norm of the point
-print("The norm is:", point1.norm())
+print("The norm is:", point1.Norm())
 
